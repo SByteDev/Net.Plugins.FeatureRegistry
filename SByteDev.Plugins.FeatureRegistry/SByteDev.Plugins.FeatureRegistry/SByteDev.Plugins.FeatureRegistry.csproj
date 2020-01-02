@@ -1,0 +1,25 @@
+﻿<Project Sdk="MSBuild.Sdk.Extras/2.0.54">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>SByteDev.Plugins.FeatureRegistry</PackageId>
+    <PackageVersion>1.0.2</PackageVersion>
+    <Title>FeatureRegistry Plugin</Title>
+    <Description>FeatureRegistry Plugin for .Net.</Description>
+    <Copyright>SByteDev</Copyright>
+    <Authors>Prin53, SByteDev</Authors>
+    <Owners>Prin53, SByteDev</Owners>
+    <NeutralLanguage>en</NeutralLanguage>
+    <PackageTags>featureregistry</PackageTags>
+    <PackageIconUrl>https://i.imgur.com/DtkfyPTm.jpg</PackageIconUrl>
+    <PackageProjectUrl>https://github.com/SByteDev/Net.Plugins.FeatureRegistry</PackageProjectUrl>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PublishRepositoryUrl>true</PublishRepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/SByteDev/Net.Plugins.FeatureRegistry</RepositoryUrl>
+    <RootNamespace>SByteDev.Plugins.FeatureRegistry</RootNamespace>
+  </PropertyGroup>
+
+</Project>
