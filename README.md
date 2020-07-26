@@ -1,9 +1,8 @@
 # FeatureRegistry Plugin
 ![GitHub](https://img.shields.io/github/license/SByteDev/Net.Plugins.FeatureRegistry.svg)
 ![Nuget](https://img.shields.io/nuget/v/SByteDev.Plugins.FeatureRegistry.svg)
-
-[![Build Status](https://travis-ci.org/SByteDev/Net.Plugins.FeatureRegistry.svg?branch=master)](https://travis-ci.org/SByteDev/Net.Plugins.FeatureRegistry)
-[![codecov](https://codecov.io/gh/SByteDev/Net.Plugins.FeatureRegistry/branch/master/graph/badge.svg)](https://codecov.io/gh/SByteDev/Net.Plugins.FeatureRegistry)
+[![Build Status](https://img.shields.io/bitrise/d5e8d1c35b79fa21/develop?label=development&token=xAzYDfafCSB-9UCo2PGNiQ&branch)](https://app.bitrise.io/app/d5e8d1c35b79fa21)
+[![Build Status](https://img.shields.io/bitrise/d5e8d1c35b79fa21/master?label=production&token=xAzYDfafCSB-9UCo2PGNiQ&branch)](https://app.bitrise.io/app/d5e8d1c35b79fa21)
 [![CodeFactor](https://www.codefactor.io/repository/github/sbytedev/net.plugins.featureregistry/badge)](https://www.codefactor.io/repository/github/sbytedev/net.plugins.featureregistry)
 
 Provides a singleton to store the information about enabled or disabled application features. Features can be represented by a `string`, `Type` or `Enum`.
