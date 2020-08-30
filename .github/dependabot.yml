@@ -1,7 +1,7 @@
 version: 2
 updates:
 - package-ecosystem: nuget
-  directory: "/SByteDev.Net.Plugins.FeatureRegistry"
+  directory: "/SByteDev.Plugins.FeatureRegistry"
   schedule:
     interval: daily
     time: "03:00"
