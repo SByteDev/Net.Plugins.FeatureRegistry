@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <PackageId>SByteDev.Plugins.FeatureRegistry</PackageId>
-    <PackageVersion>1.0.0</PackageVersion>
+    <PackageVersion>1.0.1</PackageVersion>
     <Title>FeatureRegistry Plugin</Title>
     <Description>FeatureRegistry Plugin for .Net.</Description>
     <Copyright>SByteDev</Copyright>
@@ -15,6 +15,7 @@
     <PackageProjectUrl>https://github.com/SByteDev/Net.Plugins.FeatureRegistry</PackageProjectUrl>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageReleaseNotes>Update Microsoft.NET.Test.Sdk to 16.8.3</PackageReleaseNotes>
     <PublishRepositoryUrl>true</PublishRepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <RepositoryUrl>https://github.com/SByteDev/Net.Plugins.FeatureRegistry</RepositoryUrl>
